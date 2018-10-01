@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\ld316338\desktop\c++\chapter-11\tempconversion\tempconversion\source.cpp(16): warning C4018: '<': signed/unsigned mismatch
+  TempConversion.vcxproj -> C:\Users\ld316338\Desktop\C++\Chapter-11\TempConversion\Debug\TempConversion.exe
