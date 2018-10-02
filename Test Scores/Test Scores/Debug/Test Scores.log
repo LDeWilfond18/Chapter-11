@@ -1,4 +1,3 @@
 ﻿  Source.cpp
-c:\users\ld316338\desktop\c++\chapter-11\test scores\test scores\source.cpp(17): warning C4018: '<=': signed/unsigned mismatch
-c:\users\ld316338\desktop\c++\chapter-11\test scores\test scores\source.cpp(11): warning C4101: 'average': unreferenced local variable
+c:\users\ld316338\desktop\c++\chapter-11\test scores\test scores\source.cpp(20): warning C4018: '<=': signed/unsigned mismatch
   Test Scores.vcxproj -> C:\Users\ld316338\Desktop\C++\Chapter-11\Test Scores\Debug\Test Scores.exe
